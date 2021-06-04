@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/fatih/color v1.10.0 // indirect
-	github.com/hashicorp/go-plugin v1.4.1
+	github.com/hashicorp/go-plugin v1.4.2
 	github.com/hashicorp/yamux v0.0.0-20210316155119-a95892c5f864 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/oidc-proxy-ecosystem/oidc-proxy v0.0.1
